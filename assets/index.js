@@ -1,0 +1,1 @@
+export { default as ChatIcon } from "./chatIcon.png"
